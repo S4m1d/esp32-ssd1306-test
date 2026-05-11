@@ -1,3 +1,12 @@
+# General
+Procedural animations project, made for learning ssd1306 chip's specifics.
+Made with:
+- ssd1306 chip based LCD screen
+- esp32
+- espidf framework
+
+[![Watch the video](https://img.youtube.com/vi/pgPdwBTOGuk/maxresdefault.jpg)](https://youtube.com/shorts/pgPdwBTOGuk?feature=share) 
+
 # Setup
 ## First compilation
 To download libraries and compile app for the first time run:
